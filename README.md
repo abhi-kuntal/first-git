@@ -1,3 +1,3 @@
 # first-git
 using git
-first git produt
+first git produt.
